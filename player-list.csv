@@ -1,86 +1,87 @@
-name,team,position,minutes,points,british,black_white,neurope
-Abdoulaye Doucouré,Everton,MID,2632,116,0,Black,Other
-Alex Iwobi,Fulham,MID,2191,99,0,Black,Other
-Alexis Mac Allister,Liverpool,MID,2600,109,0,NA,Other
-Alisson Ramses Becker,Liverpool,GK,2520,107,0,White,N. European
-Alphonse Areola,West Ham,GK,2700,116,0,Black,Other
-Andrew Robertson,Liverpool,DEF,1689,76,1,White,N. European
-Andros Townsend,Luton,MID,1197,61,1,NA,Other
-Anthony Elanga,Nott'm Forest,MID,2424,119,0,Black,Other
-Ashley Young,Everton,DEF,2277,76,1,Black,Other
-Billy Gilmour,Brighton,MID,2116,61,1,White,N. European
-Callum Hudson-Odoi,Nott'm Forest,MID,1846,109,1,Black,Other
-Callum Wilson,Newcastle,FWD,981,69,1,Black,Other
-Cameron Archer,Sheffield Utd,FWD,1824,82,1,Black,Other
-Christian Nørgaard,Brentford,MID,2504,74,0,White,N. European
-Craig Dawson,Wolves,DEF,2209,69,1,White,N. European
-Cristian Romero,Spurs,DEF,2790,107,0,NA,Other
-Dan Burn,Newcastle,DEF,2725,97,1,White,N. European
-Danny Welbeck,Brighton,FWD,1687,79,1,Black,Other
-Dominic Calvert-Lewin,Everton,FWD,2166,101,1,NA,Other
-Ederson Santana de Moraes,Man City,GK,2785,112,0,NA,Other
-Emerson Palmieri dos Santos,West Ham,DEF,3138,82,0,NA,Other
-Ethan Pinnock,Brentford,DEF,2521,77,0,Black,Other
-Evan Ferguson,Brighton,FWD,1356,69,0,White,N. European
-Ezri Konsa Ngoyo,Aston Villa,DEF,3069,91,1,Black,Other
-Fabian Schär,Newcastle,DEF,3055,123,0,White,N. European
-Gabriel Fernando de Jesus,Arsenal,FWD,1470,85,0,Black,Other
-Harry Maguire,Man Utd,DEF,1650,73,1,White,N. European
-Harvey Elliott,Liverpool,MID,1330,96,1,White,N. European
-Ibrahima Konaté,Liverpool,DEF,1570,56,0,Black,Other
-Ivan Toney,Brentford,FWD,1449,57,1,Black,Other
-Jack Harrison,Everton,MID,2212,92,1,White,N. European
-Jacob Murphy,Newcastle,MID,1184,82,1,Black,Other
-James Maddison,Spurs,MID,2137,117,1,White,N. European
-James McAtee,Sheffield Utd,MID,1814,76,1,White,N. European
-James Tarkowski,Everton,DEF,3420,117,1,White,N. European
-Jeffrey Schlupp,Crystal Palace,MID,1340,66,0,Black,Other
-Joachim Andersen,Crystal Palace,DEF,3416,121,0,White,N. European
-John McGinn,Aston Villa,MID,3000,119,1,White,N. European
-Jordan Ayew,Crystal Palace,MID,2540,109,0,Black,Other
-Josh Brownhill,Burnley,MID,2248,78,1,White,N. European
-José Malheiro de Sá,Wolves,GK,3037,107,0,NA,Other
-João Pedro Junqueira de Jesus,Brighton,FWD,2037,104,0,NA,Other
-Kevin De Bruyne,Man City,MID,1219,98,0,White,N. European
-Kieran Trippier,Newcastle,DEF,2235,111,1,White,N. European
-Kristoffer Ajer,Brentford,DEF,1826,68,0,White,N. European
-Kurt Zouma,West Ham,DEF,2838,76,0,Black,Other
-Kyle Walker,Man City,DEF,2766,123,1,NA,Other
-Lewis Dunk,Brighton,DEF,2869,89,1,White,N. European
-Lucas Digne,Aston Villa,DEF,2405,85,0,White,N. European
-Mads Roerslev Rasmussen,Brentford,DEF,1975,75,0,White,N. European
-Marc Guéhi,Crystal Palace,DEF,2020,66,1,Black,Other
-Marcus Rashford,Man Utd,MID,2264,108,1,Black,Other
-Martin Dubravka,Newcastle,GK,1984,75,0,White,N. European
-Mathias Jensen,Brentford,MID,2201,98,0,White,N. European
-Max Kilman,Wolves,DEF,3420,82,1,White,N. European
-Michail Antonio,West Ham,FWD,1692,78,0,Black,Other
-Nathan Aké,Man City,DEF,2039,99,0,Black,Other
-Nathan Collins,Brentford,DEF,2649,84,0,White,N. European
-Neal Maupay,Brentford,FWD,1307,73,0,NA,Other
-Nick Pope,Newcastle,GK,1345,57,1,White,N. European
-Nélson Cabral Semedo,Wolves,DEF,3084,63,0,Black,Other
-Odsonne Edouard,Crystal Palace,FWD,1545,79,0,Black,Other
-Oleksandr Zinchenko,Arsenal,DEF,1717,104,0,White,N. European
-Pedro Lomba Neto,Wolves,MID,1516,86,0,NA,Other
-Raheem Sterling,Chelsea,MID,1972,123,1,Black,Other
-Raúl Jiménez,Fulham,FWD,1390,72,0,NA,Other
-Richarlison de Andrade,Spurs,MID,1481,122,0,NA,Other
-Robert Sánchez,Chelsea,GK,1433,59,0,NA,Other
-Ross Barkley,Luton,MID,2616,101,1,White,N. European
-Scott McTominay,Man Utd,MID,1891,98,1,White,N. European
-Sean Longstaff,Newcastle,MID,2742,110,1,White,N. European
-Sergio Reguilón,Brentford,DEF,1115,56,0,NA,Other
-Takehiro Tomiyasu,Arsenal,DEF,1140,70,0,NA,Other
-Thiago Emiliano da Silva,Chelsea,DEF,2525,98,0,NA,Other
-Timothy Castagne,Fulham,DEF,2630,105,0,White,N. European
-Toti António Gomes,Wolves,DEF,2771,82,0,Black,Other
-Trent Alexander-Arnold,Liverpool,DEF,2153,122,1,White,N. European
-Tyrick Mitchell,Crystal Palace,DEF,3204,119,1,Black,Other
-Victor Lindelöf,Man Utd,DEF,1328,62,0,White,N. European
-Virgil van Dijk,Liverpool,DEF,3177,117,0,Black,Other
-Vitalii Mykolenko,Everton,DEF,2469,101,0,White,N. European
-Vitaly Janelt,Brentford,MID,3054,93,0,White,N. European
-Will Hughes,Crystal Palace,MID,1886,61,1,White,N. European
-Willy Boly,Nott'm Forest,DEF,1437,58,0,Black,Other
-Youri Tielemans,Aston Villa,MID,1613,77,0,NA,Other
+name,team,position,minutes,points,british,black_white,neurope,photo_name
+Abdoulaye Doucouré,Everton,MID,2632,116,0,Black,Other,doucoure
+Alex Iwobi,Fulham,MID,2191,99,0,Black,Other,iwobi
+Alexis Mac Allister,Liverpool,MID,2600,109,0,NA,Other,macallister
+Alisson Ramses Becker,Liverpool,GK,2520,107,0,White,N. European,becker
+Alphonse Areola,West Ham,GK,2700,116,0,Black,Other,areola
+Andrew Robertson,Liverpool,DEF,1689,76,1,White,N. European,robertson
+Andros Townsend,Luton,MID,1197,61,1,NA,Other,townsend
+Anthony Elanga,Nott'm Forest,MID,2424,119,0,Black,Other,elanga
+Ashley Young,Everton,DEF,2277,76,1,Black,Other,young
+Billy Gilmour,Brighton,MID,2116,61,1,White,N. European,gilmour
+Callum Hudson-Odoi,Nott'm Forest,MID,1846,109,1,Black,Other,hudsonodoi
+Callum Wilson,Newcastle,FWD,981,69,1,Black,Other,wilson
+Cameron Archer,Sheffield Utd,FWD,1824,82,1,Black,Other,archer
+Christian Nørgaard,Brentford,MID,2504,74,0,White,N. European,norgaard
+Craig Dawson,Wolves,DEF,2209,69,1,White,N. European,dawson
+Cristian Romero,Spurs,DEF,2790,107,0,NA,Other,romero
+Dan Burn,Newcastle,DEF,2725,97,1,White,N. European,burn
+Danny Welbeck,Brighton,FWD,1687,79,1,Black,Other,welbeck
+Dominic Calvert-Lewin,Everton,FWD,2166,101,1,NA,Other,calvertlewin
+Ederson Santana de Moraes,Man City,GK,2785,112,0,NA,Other,ederson
+Emerson Palmieri dos Santos,West Ham,DEF,3138,82,0,NA,Other,emerson
+Ethan Pinnock,Brentford,DEF,2521,77,0,Black,Other,pinnock
+Evan Ferguson,Brighton,FWD,1356,69,0,White,N. European,ferguson
+Ezri Konsa Ngoyo,Aston Villa,DEF,3069,91,1,Black,Other,konsa
+Fabian Schär,Newcastle,DEF,3055,123,0,White,N. European,schar
+Gabriel Fernando de Jesus,Arsenal,FWD,1470,85,0,Black,Other,jesus
+Harry Maguire,Man Utd,DEF,1650,73,1,White,N. European,maguire
+Harvey Elliott,Liverpool,MID,1330,96,1,White,N. European,elliott
+Ibrahima Konaté,Liverpool,DEF,1570,56,0,Black,Other,konate
+Ivan Toney,Brentford,FWD,1449,57,1,Black,Other,toney
+Jack Harrison,Everton,MID,2212,92,1,White,N. European,harrison
+Jacob Murphy,Newcastle,MID,1184,82,1,Black,Other,murphy
+James Maddison,Spurs,MID,2137,117,1,White,N. European,maddison
+James McAtee,Sheffield Utd,MID,1814,76,1,White,N. European,mcatee
+James Tarkowski,Everton,DEF,3420,117,1,White,N. European,tarkowski
+Jeffrey Schlupp,Crystal Palace,MID,1340,66,0,Black,Other,schlupp
+Joachim Andersen,Crystal Palace,DEF,3416,121,0,White,N. European,andersen
+John McGinn,Aston Villa,MID,3000,119,1,White,N. European,mcginn
+Jordan Ayew,Crystal Palace,MID,2540,109,0,Black,Other,ayew
+Josh Brownhill,Burnley,MID,2248,78,1,White,N. European,brownhill
+José Malheiro de Sá,Wolves,GK,3037,107,0,NA,Other,sa
+João Pedro Junqueira de Jesus,Brighton,FWD,2037,104,0,NA,Other,pedro
+Kevin De Bruyne,Man City,MID,1219,98,0,White,N. European,debruyne
+Kieran Trippier,Newcastle,DEF,2235,111,1,White,N. European,trippier
+Kristoffer Ajer,Brentford,DEF,1826,68,0,White,N. European,ajer
+Kurt Zouma,West Ham,DEF,2838,76,0,Black,Other,zouma
+Kyle Walker,Man City,DEF,2766,123,1,NA,Other,walker
+Lewis Dunk,Brighton,DEF,2869,89,1,White,N. European,dunk
+Lucas Digne,Aston Villa,DEF,2405,85,0,White,N. European,digne
+Mads Roerslev Rasmussen,Brentford,DEF,1975,75,0,White,N. European,roerslev
+Marc Guéhi,Crystal Palace,DEF,2020,66,1,Black,Other,guehi
+Marcus Rashford,Man Utd,MID,2264,108,1,Black,Other,rashford
+Martin Dubravka,Newcastle,GK,1984,75,0,White,N. European,dubravka
+Mathias Jensen,Brentford,MID,2201,98,0,White,N. European,jensen
+Max Kilman,Wolves,DEF,3420,82,1,White,N. European,kilman
+Michail Antonio,West Ham,FWD,1692,78,0,Black,Other,antonio
+Nathan Aké,Man City,DEF,2039,99,0,Black,Other,ake
+Nathan Collins,Brentford,DEF,2649,84,0,White,N. European,collins
+Neal Maupay,Brentford,FWD,1307,73,0,NA,Other,maupay
+Nick Pope,Newcastle,GK,1345,57,1,White,N. European,pope
+Nélson Cabral Semedo,Wolves,DEF,3084,63,0,Black,Other,semedo
+Odsonne Edouard,Crystal Palace,FWD,1545,79,0,Black,Other,edouard
+Oleksandr Zinchenko,Arsenal,DEF,1717,104,0,White,N. European,zinchenko
+Pedro Lomba Neto,Wolves,MID,1516,86,0,NA,Other,neto
+Raheem Sterling,Chelsea,MID,1972,123,1,Black,Other,sterling
+Raúl Jiménez,Fulham,FWD,1390,72,0,NA,Other,jimenez
+Richarlison de Andrade,Spurs,MID,1481,122,0,NA,Other,richarlison
+Robert Sánchez,Chelsea,GK,1433,59,0,NA,Other,sanchez
+Ross Barkley,Luton,MID,2616,101,1,White,N. European,barkley
+Scott McTominay,Man Utd,MID,1891,98,1,White,N. European,mctominay
+Sean Longstaff,Newcastle,MID,2742,110,1,White,N. European,longstaff
+Sergio Reguilón,Brentford,DEF,1115,56,0,NA,Other,reguilon
+Takehiro Tomiyasu,Arsenal,DEF,1140,70,0,NA,Other,tomiyasu
+Thiago Emiliano da Silva,Chelsea,DEF,2525,98,0,NA,Other,silva
+Timothy Castagne,Fulham,DEF,2630,105,0,White,N. European,castagne
+Toti António Gomes,Wolves,DEF,2771,82,0,Black,Other,toti
+Trent Alexander-Arnold,Liverpool,DEF,2153,122,1,White,N. European,alexanderarnold
+Tyrick Mitchell,Crystal Palace,DEF,3204,119,1,Black,Other,mitchell
+Victor Lindelöf,Man Utd,DEF,1328,62,0,White,N. European,lindelof
+Virgil van Dijk,Liverpool,DEF,3177,117,0,Black,Other,vandijk
+Vitalii Mykolenko,Everton,DEF,2469,101,0,White,N. European,mykolenko
+Vitaly Janelt,Brentford,MID,3054,93,0,White,N. European,janelt
+Will Hughes,Crystal Palace,MID,1886,61,1,White,N. European,hughes
+Willy Boly,Nott'm Forest,DEF,1437,58,0,Black,Other,boly
+Youri Tielemans,Aston Villa,MID,1613,77,0,NA,Other,tielemans
+Mohamed Salah,Liverpool,FWD,,,0,NA,Other,salah

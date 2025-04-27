@@ -58,7 +58,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
 
       // Extract player information
       const fullName = selectedPlayer.name;
-      const lastName = fullName.split(" ").slice(-1)[0];
+      const lastName = selectedPlayer.photo_name;
       const team = selectedPlayer.team;
       const position = selectedPlayer.position;
 
@@ -101,9 +101,14 @@ Qualtrics.SurveyEngine.addOnload(function() {
           // Optionally display the vignette and photo immediately on the page
           const vignetteDiv = document.getElementById('vignette');
           if (vignetteDiv) {
-            vignetteDiv.innerHTML = vignetteText + '<br><img src="' + photoUrl + '" alt="Player photo" style="max-width:300px;">';          
-          }
-
+            vignetteDiv.innerHTML = 
+              '<div style="text-align:left; padding:10px;">' +
+              '<img src="' + photoUrl + 
+              '" alt="Player photo" style="max-width:80%; height:auto; display:block; margin:10px auto 0 auto;">' +
+              '<br>' +
+              vignetteText +
+              '</div>';          
+            }
           console.log("vignetteText:", vignetteText);
         })
         .catch(error => {

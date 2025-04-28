@@ -80,6 +80,8 @@ Qualtrics.SurveyEngine.addOnload(function() {
       const lastName = selectedPlayer.photo_name;     // e.g., "rashford" (for filenames)
       const teamName = selectedPlayer.team;
       const position = selectedPlayer.position;
+      const ethnicity = selectedPlayer.ethnicity_display;
+      const nation = selectedPlayer.nation;
 
       // --- Map detailed positions into broad categories ---
       let positionGroup = "";
@@ -98,6 +100,9 @@ Qualtrics.SurveyEngine.addOnload(function() {
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_team', teamName);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_photo_name', lastName);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_position_group', positionGroup);
+      Qualtrics.SurveyEngine.setEmbeddedData('selected_player_ethnicity', ethnicity);
+      Qualtrics.SurveyEngine.setEmbeddedData('selected_player_nationality', nation);
+nation
 
       // --- Setup Attention Check Options: 1 correct team + 3 distractors ---
       const allTeams = players.map(p => p.team).filter((team, index, self) => team && self.indexOf(team) === index);

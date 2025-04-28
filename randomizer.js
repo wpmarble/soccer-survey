@@ -9,6 +9,7 @@ the following html is in the question:
 */
 
 Qualtrics.SurveyEngine.addOnload(function() {
+  
   // URLs for player list, player photos, and vignette templates
   const playersUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/player-list.csv";
   const photoDirUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/photos";
@@ -36,7 +37,11 @@ Qualtrics.SurveyEngine.addOnload(function() {
   // Randomly assign treatment groups: nationality, race, and sentiment
   const tr_british = Math.round(Math.random()); // 0 = non-British, 1 = British
   const tr_white = Math.round(Math.random());   // 0 = non-White, 1 = White
-  const sentiment_options = ["positive", "negative", "neutral"];
+  const sentiment_options = [
+    "positive"
+    , "negative"
+    // , "neutral"
+  ];
   const tr_sentiment = randomChoice(sentiment_options); // Randomly pick sentiment
 
   // create human-readable versions of race X nationality
@@ -217,6 +222,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
       Qualtrics.SurveyEngine.setEmbeddedData('tr_white', tr_white);
       Qualtrics.SurveyEngine.setEmbeddedData('tr_sentiment', tr_sentiment);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_name', fullName);
+      Qualtrics.SurveyEngine.setEmbeddedData('vignette', vignetteText);
     })
     .catch(error => {
       console.error("Failed to load players file:", error);

@@ -1,7 +1,7 @@
 # some tests to make sure the files are set up correctly
 
 library(tidyverse)
-library(rlang)
+library(assertthat)
 setwd("~/dropbox/Fantasy_PL/survey/public-survey-files/")
 
 players <- read.csv("player-list.csv")
@@ -16,5 +16,15 @@ photos <- strsplit(list.files("photos/"), "-") %>%
   unique()
 
 # should be character(0) for both
-setdiff(players$photo_name, photos)
-setdiff(photos, players$photo_name)
+(s1 <- setdiff(players$photo_name, photos))
+(s2 <- setdiff(photos, players$photo_name))
+assert_that(length(c(s1, s2)) == 0) 
+
+
+
+
+# ensure players satisfy all factorial cells ------------------------------
+
+
+(c1 <- (with(players, table(british, neurope, useNA="if"))))
+assert_that(all(c1 > 0))

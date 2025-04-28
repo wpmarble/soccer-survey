@@ -1,3 +1,13 @@
+/*
+This javascript constructs the vignette treatment. Make sure that
+the following html is in the question:
+<div id="vignette">
+  <!-- your vignette text and image go here -->
+</div>
+<br>
+<p id="continueMessage" style="display:none; color:gray; text-align:right;">You may now continue.</p>
+*/
+
 Qualtrics.SurveyEngine.addOnload(function() {
   // URLs for player list, player photos, and vignette templates
   const playersUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/player-list.csv";
@@ -28,6 +38,14 @@ Qualtrics.SurveyEngine.addOnload(function() {
   const tr_white = Math.round(Math.random());   // 0 = non-White, 1 = White
   const sentiment_options = ["positive", "negative", "neutral"];
   const tr_sentiment = randomChoice(sentiment_options); // Randomly pick sentiment
+
+  // create human-readable versions of race X nationality
+  const tr_british_text = (tr_british === 1) ? "British" : "Non-British";
+  const tr_white_text = (tr_white === 1) ? "White" : "Non-White";
+
+  // Set Embedded Data for the text versions
+  Qualtrics.SurveyEngine.setEmbeddedData('tr_british_text', tr_british_text);
+  Qualtrics.SurveyEngine.setEmbeddedData('tr_white_text', tr_white_text);
 
   // Load player list
   fetch(playersUrl)
@@ -156,6 +174,17 @@ Qualtrics.SurveyEngine.addOnload(function() {
         .catch(error => {
           console.error("Failed to load vignette file:", error);
         });
+
+
+      // hide "next" button for 20 seconds
+      // include this html element in the question:
+      // <p id="continueMessage" style="display:none; color:gray; text-align:center;">You may now continue.</p>
+      this.hideNextButton();
+      setTimeout(() => {
+        this.showNextButton();
+        var msg = document.getElementById('continueMessage');
+        if (msg) { msg.style.display = 'block'; }
+      }, 15000);
 
       // Log variables
       console.log("tr_british: ", tr_british)

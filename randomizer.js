@@ -33,7 +33,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
   document.head.appendChild(style);
 
   // --- Setup: URLs for external files ---
-  const playersUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/player-list.csv";
+  const playersUrl = "https://wpmarble.github.io/soccer-survey/main/player-list.csv";
 
   // --- Helper function to shuffle an array ---
   function shuffleArray(array) {

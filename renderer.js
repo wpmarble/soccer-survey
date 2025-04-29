@@ -7,10 +7,15 @@ Qualtrics.SurveyEngine.addOnload(function() {
     and displays them cleanly in the survey.
     It also stores the final customized vignette text into Embedded Data.
   */
+    // --- Hide the Next button for 10 seconds ---
+  this.hideNextButton();
+  setTimeout(() => {
+    this.showNextButton();
+  }, 10000);
 
   // --- Base URLs for accessing photo files and vignette templates ---
-  const photoDirUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/photos";
-  const vignetteDirUrl = "https://raw.githubusercontent.com/wpmarble/soccer-survey/main/vignettes";
+  const photoDirUrl = "https://wpmarble.github.io/soccer-survey/photos";
+  const vignetteDirUrl = "https://wpmarble.github.io/soccer-survey/vignettes";
 
   // --- Read treatment assignment and player attributes from Embedded Data ---
   const positionGroup = "${e://Field/selected_player_position_group}"; // e.g., "attack", "mid", "def", "gk"

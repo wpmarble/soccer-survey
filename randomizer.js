@@ -138,6 +138,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
         const correctTeamIndex = allChoices.indexOf(teamName) + 1;
 
         // --- Set Attention Check Embedded Data ---
+        console.log('attn check choices: ', allChoices);
         Qualtrics.SurveyEngine.setEmbeddedData('Team1', allChoices[0]);
         Qualtrics.SurveyEngine.setEmbeddedData('Team2', allChoices[1]);
         Qualtrics.SurveyEngine.setEmbeddedData('Team3', allChoices[2]);

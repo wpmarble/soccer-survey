@@ -13,6 +13,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
   // --- Hide the question content ---
   this.getQuestionContainer().style.display = "none";
   qThis.hideNextButton();
+  qThis.hidePreviousButton();
 
   // --- Show a simple loading spinner during randomization ---
   var spinner = document.createElement("div");

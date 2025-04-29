@@ -14,8 +14,8 @@ Qualtrics.SurveyEngine.addOnload(function() {
   }, 10000);
 
   // --- Base URLs for accessing photo files and vignette templates ---
-  const photoDirUrl = "https://wpmarble.github.io/soccer-survey/photos";
-  const vignetteDirUrl = "https://wpmarble.github.io/soccer-survey/vignettes";
+  const photoDirUrl = "https://williammarble.co/soccer-survey/photos";
+  const vignetteDirUrl = "https://williammarble.co/soccer-survey/vignettes";
 
   // --- Read treatment assignment and player attributes from Embedded Data ---
   const positionGroup = "${e://Field/selected_player_position_group}"; // e.g., "attack", "mid", "def", "gk"

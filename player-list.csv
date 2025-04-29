@@ -1,86 +1,86 @@
-"name","team","position","minutes","points","british","black_white","neurope","photo_name","ethnicity","nation","ethnicity_display"
-"Abdoulaye Doucouré","Everton","MID",2632,116,0,"Black","Other","doucoure","African/Caribbean","Mali","Black"
-"Alex Iwobi","Fulham","MID",2191,99,0,"Black","Other","iwobi","African/Caribbean","Nigeria","Black"
-"Alexis Mac Allister","Liverpool","MID",2600,109,0,NA,"Other","macallister","Mediterranean/Hispanic","Argentina","Latin American"
-"Alisson Ramses Becker","Liverpool","GK",2520,107,0,"White","N. European","becker","Northern European","Brazil","White"
-"Alphonse Areola","West Ham","GK",2700,116,0,"Black","Other","areola","African/Caribbean","France","Black"
-"Andrew Robertson","Liverpool","DEF",1689,76,1,"White","N. European","robertson","Northern European","Scotland","White"
-"Anthony Elanga","Nottingham Forest","MID",2424,119,0,"Black","Other","elanga","African/Caribbean","Sweden","Black"
-"Ashley Young","Everton","DEF",2277,76,1,"Black","Other","young","African/Caribbean","England","Black"
-"Billy Gilmour","Brighton","MID",2116,61,1,"White","N. European","gilmour","Northern European","Scotland","White"
-"Callum Hudson-Odoi","Nottingham Forest","MID",1846,109,1,"Black","Other","hudsonodoi","African/Caribbean","England","Black"
-"Callum Wilson","Newcastle","FWD",981,69,1,"Black","Other","wilson","African/Caribbean","England","Black"
-"Cameron Archer","Sheffield United","FWD",1824,82,1,"Black","Other","archer","African/Caribbean","England","Black"
-"Christian Nørgaard","Brentford","MID",2504,74,0,"White","N. European","norgaard","Northern European","Denmark","White"
-"Craig Dawson","Wolves","DEF",2209,69,1,"White","N. European","dawson","Northern European","England","White"
-"Cristian Romero","Spurs","DEF",2790,107,0,NA,"Other","romero","Mediterranean/Hispanic","Argentina","Latin American"
-"Dan Burn","Newcastle","DEF",2725,97,1,"White","N. European","burn","Northern European","England","White"
-"Danny Welbeck","Brighton","FWD",1687,79,1,"Black","Other","welbeck","African/Caribbean","England","Black"
-"Dominic Calvert-Lewin","Everton","FWD",2166,101,1,NA,"Other","calvertlewin","Mixed Race (Black/White)","England","Mixed Race"
-"Ederson Santana de Moraes","Manchester City","GK",2785,112,0,NA,"Other","ederson","Mediterranean/Hispanic","Brazil","Latin American"
-"Emerson Palmieri dos Santos","West Ham","DEF",3138,82,0,NA,"Other","emerson","Mixed Race (Black/White)","Italy","Mixed Race"
-"Ethan Pinnock","Brentford","DEF",2521,77,0,"Black","Other","pinnock","African/Caribbean","Jamaica","Black"
-"Evan Ferguson","Brighton","FWD",1356,69,0,"White","N. European","ferguson","Northern European","Ireland","White"
-"Ezri Konsa Ngoyo","Aston Villa","DEF",3069,91,1,"Black","Other","konsa","African/Caribbean","England","Black"
-"Fabian Schär","Newcastle","DEF",3055,123,0,"White","N. European","schar","Northern European","Switzerland","White"
-"Gabriel Fernando de Jesus","Arsenal","FWD",1470,85,0,"Black","Other","jesus","African/Caribbean","Brazil","Black"
-"Harry Maguire","Manchester United","DEF",1650,73,1,"White","N. European","maguire","Northern European","England","White"
-"Harvey Elliott","Liverpool","MID",1330,96,1,"White","N. European","elliott","Northern European","England","White"
-"Ibrahima Konaté","Liverpool","DEF",1570,56,0,"Black","Other","konate","African/Caribbean","France","Black"
-"Ivan Toney","Brentford","FWD",1449,57,1,"Black","Other","toney","African/Caribbean","England","Black"
-"Jack Harrison","Everton","MID",2212,92,1,"White","N. European","harrison","Northern European","England","White"
-"Jacob Murphy","Newcastle","MID",1184,82,1,"Black","Other","murphy","African/Caribbean","England","Black"
-"James Maddison","Spurs","MID",2137,117,1,"White","N. European","maddison","Northern European","England","White"
-"James McAtee","Sheffield United","MID",1814,76,1,"White","N. European","mcatee","Northern European","England","White"
-"James Tarkowski","Everton","DEF",3420,117,1,"White","N. European","tarkowski","Northern European","England","White"
-"Jeffrey Schlupp","Crystal Palace","MID",1340,66,0,"Black","Other","schlupp","African/Caribbean","Ghana","Black"
-"Joachim Andersen","Crystal Palace","DEF",3416,121,0,"White","N. European","andersen","Northern European","Denmark","White"
-"John McGinn","Aston Villa","MID",3000,119,1,"White","N. European","mcginn","Northern European","Scotland","White"
-"Jordan Ayew","Crystal Palace","MID",2540,109,0,"Black","Other","ayew","African/Caribbean","Ghana","Black"
-"Josh Brownhill","Burnley","MID",2248,78,1,"White","N. European","brownhill","Northern European","England","White"
-"José Malheiro de Sá","Wolves","GK",3037,107,0,NA,"Other","sa","Mediterranean/Hispanic","Portugal","Southern European"
-"João Pedro Junqueira de Jesus","Brighton","FWD",2037,104,0,NA,"Other","pedro","Mixed Race (Black/White)","Brazil","Mixed Race"
-"Kevin De Bruyne","Manchester City","MID",1219,98,0,"White","N. European","debruyne","Northern European","Belgium","White"
-"Kieran Trippier","Newcastle","DEF",2235,111,1,"White","N. European","trippier","Northern European","England","White"
-"Kristoffer Ajer","Brentford","DEF",1826,68,0,"White","N. European","ajer","Northern European","Norway","White"
-"Kurt Zouma","West Ham","DEF",2838,76,0,"Black","Other","zouma","African/Caribbean","France","Black"
-"Kyle Walker","Manchester City","DEF",2766,123,1,NA,"Other","walker","Mixed Race (Black/White)","England","Mixed Race"
-"Lewis Dunk","Brighton","DEF",2869,89,1,"White","N. European","dunk","Northern European","England","White"
-"Lucas Digne","Aston Villa","DEF",2405,85,0,"White","N. European","digne","Northern European","France","White"
-"Mads Roerslev Rasmussen","Brentford","DEF",1975,75,0,"White","N. European","roerslev","Northern European","Denmark","White"
-"Marc Guéhi","Crystal Palace","DEF",2020,66,1,"Black","Other","guehi","African/Caribbean","England","Black"
-"Marcus Rashford","Manchester United","MID",2264,108,1,"Black","Other","rashford","African/Caribbean","England","Black"
-"Martin Dubravka","Newcastle","GK",1984,75,0,"White","N. European","dubravka","Northern European","Slovakia","White"
-"Mathias Jensen","Brentford","MID",2201,98,0,"White","N. European","jensen","Northern European","Denmark","White"
-"Max Kilman","Wolves","DEF",3420,82,1,"White","N. European","kilman","Northern European","England","White"
-"Michail Antonio","West Ham","FWD",1692,78,0,"Black","Other","antonio","African/Caribbean","Jamaica","Black"
-"Nathan Aké","Manchester City","DEF",2039,99,0,"Black","Other","ake","African/Caribbean","Netherlands","Black"
-"Nathan Collins","Brentford","DEF",2649,84,0,"White","N. European","collins","Northern European","Ireland","White"
-"Neal Maupay","Brentford","FWD",1307,73,0,NA,"Other","maupay","Mediterranean/Hispanic","France","Southern European"
-"Nick Pope","Newcastle","GK",1345,57,1,"White","N. European","pope","Northern European","England","White"
-"Nélson Cabral Semedo","Wolves","DEF",3084,63,0,"Black","Other","semedo","African/Caribbean","Portugal","Black"
-"Odsonne Edouard","Crystal Palace","FWD",1545,79,0,"Black","Other","edouard","African/Caribbean","France","Black"
-"Oleksandr Zinchenko","Arsenal","DEF",1717,104,0,"White","N. European","zinchenko","Northern European","Ukraine","White"
-"Pedro Lomba Neto","Wolves","MID",1516,86,0,NA,"Other","neto","Mediterranean/Hispanic","Portugal","Southern European"
-"Raheem Sterling","Chelsea","MID",1972,123,1,"Black","Other","sterling","African/Caribbean","England","Black"
-"Raúl Jiménez","Fulham","FWD",1390,72,0,NA,"Other","jimenez","Mediterranean/Hispanic","Mexico","Latin American"
-"Richarlison de Andrade","Spurs","MID",1481,122,0,NA,"Other","richarlison","Mediterranean/Hispanic","Brazil","Latin American"
-"Robert Sánchez","Chelsea","GK",1433,59,0,NA,"Other","sanchez","Mixed Race (Black/White)","Spain","Mixed Race"
-"Ross Barkley","Aston Villa","MID",2616,101,1,"White","N. European","barkley","Northern European","England","White"
-"Scott McTominay","Manchester United","MID",1891,98,1,"White","N. European","mctominay","Northern European","Scotland","White"
-"Sean Longstaff","Newcastle","MID",2742,110,1,"White","N. European","longstaff","Northern European","England","White"
-"Sergio Reguilón","Brentford","DEF",1115,56,0,NA,"Other","reguilon","Mediterranean/Hispanic","Spain","Southern European"
-"Takehiro Tomiyasu","Arsenal","DEF",1140,70,0,NA,"Other","tomiyasu","Asian","Japan","East Asian"
-"Thiago Emiliano da Silva","Chelsea","DEF",2525,98,0,NA,"Other","silva","Mixed Race (Black/White)","Brazil","Mixed Race"
-"Timothy Castagne","Fulham","DEF",2630,105,0,"White","N. European","castagne","Northern European","Belgium","White"
-"Toti António Gomes","Wolves","DEF",2771,82,0,"Black","Other","toti","African/Caribbean","Portugal","Black"
-"Trent Alexander-Arnold","Liverpool","DEF",2153,122,1,"White","N. European","alexanderarnold","Northern European","England","White"
-"Tyrick Mitchell","Crystal Palace","DEF",3204,119,1,"Black","Other","mitchell","African/Caribbean","England","Black"
-"Victor Lindelöf","Manchester United","DEF",1328,62,0,"White","N. European","lindelof","Northern European","Sweden","White"
-"Virgil van Dijk","Liverpool","DEF",3177,117,0,"Black","Other","vandijk","African/Caribbean","Netherlands","Black"
-"Vitalii Mykolenko","Everton","DEF",2469,101,0,"White","N. European","mykolenko","Northern European","Ukraine","White"
-"Vitaly Janelt","Brentford","MID",3054,93,0,"White","N. European","janelt","Northern European","Germany","White"
-"Will Hughes","Crystal Palace","MID",1886,61,1,"White","N. European","hughes","Northern European","England","White"
-"Willy Boly","Nottingham Forest","DEF",1437,58,0,"Black","Other","boly","African/Caribbean","Ivory Coast","Black"
-"Youri Tielemans","Aston Villa","MID",1613,77,0,NA,"Other","tielemans","Mixed Race (Black/White)","Belgium","Mixed Race"
-"Mohamed Salah","Liverpool","FWD",NA,NA,0,NA,"Other","salah","North African/Middle Eastern","Egypt","Arab"
+name,display_name,team,position,minutes,points,british,black_white,neurope,photo_name,ethnicity,nation,ethnicity_display
+Abdoulaye Doucouré,,Everton,MID,2632,116,0,Black,Other,doucoure,African/Caribbean,Mali,Black
+Alex Iwobi,,Fulham,MID,2191,99,0,Black,Other,iwobi,African/Caribbean,Nigeria,Black
+Alexis Mac Allister,,Liverpool,MID,2600,109,0,NA,Other,macallister,Mediterranean/Hispanic,Argentina,Latin American
+Alisson Ramses Becker,,Liverpool,GK,2520,107,0,White,N. European,becker,Northern European,Brazil,White
+Alphonse Areola,,West Ham,GK,2700,116,0,Black,Other,areola,African/Caribbean,France,Black
+Andrew Robertson,,Liverpool,DEF,1689,76,1,White,N. European,robertson,Northern European,Scotland,White
+Anthony Elanga,,Nottingham Forest,MID,2424,119,0,Black,Other,elanga,African/Caribbean,Sweden,Black
+Ashley Young,,Everton,DEF,2277,76,1,Black,Other,young,African/Caribbean,England,Black
+Billy Gilmour,,Brighton,MID,2116,61,1,White,N. European,gilmour,Northern European,Scotland,White
+Callum Hudson-Odoi,,Nottingham Forest,MID,1846,109,1,Black,Other,hudsonodoi,African/Caribbean,England,Black
+Callum Wilson,,Newcastle,FWD,981,69,1,Black,Other,wilson,African/Caribbean,England,Black
+Cameron Archer,,Sheffield United,FWD,1824,82,1,Black,Other,archer,African/Caribbean,England,Black
+Christian Nørgaard,,Brentford,MID,2504,74,0,White,N. European,norgaard,Northern European,Denmark,White
+Craig Dawson,,Wolves,DEF,2209,69,1,White,N. European,dawson,Northern European,England,White
+Cristian Romero,,Spurs,DEF,2790,107,0,NA,Other,romero,Mediterranean/Hispanic,Argentina,Latin American
+Dan Burn,,Newcastle,DEF,2725,97,1,White,N. European,burn,Northern European,England,White
+Danny Welbeck,,Brighton,FWD,1687,79,1,Black,Other,welbeck,African/Caribbean,England,Black
+Dominic Calvert-Lewin,,Everton,FWD,2166,101,1,NA,Other,calvertlewin,Mixed Race (Black/White),England,Mixed Race
+Ederson Santana de Moraes,,Manchester City,GK,2785,112,0,NA,Other,ederson,Mediterranean/Hispanic,Brazil,Latin American
+Emerson Palmieri dos Santos,,West Ham,DEF,3138,82,0,NA,Other,emerson,Mixed Race (Black/White),Italy,Mixed Race
+Ethan Pinnock,,Brentford,DEF,2521,77,0,Black,Other,pinnock,African/Caribbean,Jamaica,Black
+Evan Ferguson,,Brighton,FWD,1356,69,0,White,N. European,ferguson,Northern European,Ireland,White
+Ezri Konsa Ngoyo,,Aston Villa,DEF,3069,91,1,Black,Other,konsa,African/Caribbean,England,Black
+Fabian Schär,,Newcastle,DEF,3055,123,0,White,N. European,schar,Northern European,Switzerland,White
+Gabriel Fernando de Jesus,,Arsenal,FWD,1470,85,0,Black,Other,jesus,African/Caribbean,Brazil,Black
+Harry Maguire,,Manchester United,DEF,1650,73,1,White,N. European,maguire,Northern European,England,White
+Harvey Elliott,,Liverpool,MID,1330,96,1,White,N. European,elliott,Northern European,England,White
+Ibrahima Konaté,,Liverpool,DEF,1570,56,0,Black,Other,konate,African/Caribbean,France,Black
+Ivan Toney,,Brentford,FWD,1449,57,1,Black,Other,toney,African/Caribbean,England,Black
+Jack Harrison,,Everton,MID,2212,92,1,White,N. European,harrison,Northern European,England,White
+Jacob Murphy,,Newcastle,MID,1184,82,1,Black,Other,murphy,African/Caribbean,England,Black
+James Maddison,,Spurs,MID,2137,117,1,White,N. European,maddison,Northern European,England,White
+James McAtee,,Sheffield United,MID,1814,76,1,White,N. European,mcatee,Northern European,England,White
+James Tarkowski,,Everton,DEF,3420,117,1,White,N. European,tarkowski,Northern European,England,White
+Jeffrey Schlupp,,Crystal Palace,MID,1340,66,0,Black,Other,schlupp,African/Caribbean,Ghana,Black
+Joachim Andersen,,Crystal Palace,DEF,3416,121,0,White,N. European,andersen,Northern European,Denmark,White
+John McGinn,,Aston Villa,MID,3000,119,1,White,N. European,mcginn,Northern European,Scotland,White
+Jordan Ayew,,Crystal Palace,MID,2540,109,0,Black,Other,ayew,African/Caribbean,Ghana,Black
+Josh Brownhill,,Burnley,MID,2248,78,1,White,N. European,brownhill,Northern European,England,White
+José Malheiro de Sá,,Wolves,GK,3037,107,0,NA,Other,sa,Mediterranean/Hispanic,Portugal,Southern European
+João Pedro Junqueira de Jesus,,Brighton,FWD,2037,104,0,NA,Other,pedro,Mixed Race (Black/White),Brazil,Mixed Race
+Kevin De Bruyne,,Manchester City,MID,1219,98,0,White,N. European,debruyne,Northern European,Belgium,White
+Kieran Trippier,,Newcastle,DEF,2235,111,1,White,N. European,trippier,Northern European,England,White
+Kristoffer Ajer,,Brentford,DEF,1826,68,0,White,N. European,ajer,Northern European,Norway,White
+Kurt Zouma,,West Ham,DEF,2838,76,0,Black,Other,zouma,African/Caribbean,France,Black
+Kyle Walker,,Manchester City,DEF,2766,123,1,NA,Other,walker,Mixed Race (Black/White),England,Mixed Race
+Lewis Dunk,,Brighton,DEF,2869,89,1,White,N. European,dunk,Northern European,England,White
+Lucas Digne,,Aston Villa,DEF,2405,85,0,White,N. European,digne,Northern European,France,White
+Mads Roerslev Rasmussen,,Brentford,DEF,1975,75,0,White,N. European,roerslev,Northern European,Denmark,White
+Marc Guéhi,,Crystal Palace,DEF,2020,66,1,Black,Other,guehi,African/Caribbean,England,Black
+Marcus Rashford,,Manchester United,MID,2264,108,1,Black,Other,rashford,African/Caribbean,England,Black
+Martin Dubravka,,Newcastle,GK,1984,75,0,White,N. European,dubravka,Northern European,Slovakia,White
+Mathias Jensen,,Brentford,MID,2201,98,0,White,N. European,jensen,Northern European,Denmark,White
+Max Kilman,,Wolves,DEF,3420,82,1,White,N. European,kilman,Northern European,England,White
+Michail Antonio,,West Ham,FWD,1692,78,0,Black,Other,antonio,African/Caribbean,Jamaica,Black
+Nathan Aké,,Manchester City,DEF,2039,99,0,Black,Other,ake,African/Caribbean,Netherlands,Black
+Nathan Collins,,Brentford,DEF,2649,84,0,White,N. European,collins,Northern European,Ireland,White
+Neal Maupay,,Brentford,FWD,1307,73,0,NA,Other,maupay,Mediterranean/Hispanic,France,Southern European
+Nick Pope,,Newcastle,GK,1345,57,1,White,N. European,pope,Northern European,England,White
+Nélson Cabral Semedo,,Wolves,DEF,3084,63,0,Black,Other,semedo,African/Caribbean,Portugal,Black
+Odsonne Edouard,,Crystal Palace,FWD,1545,79,0,Black,Other,edouard,African/Caribbean,France,Black
+Oleksandr Zinchenko,,Arsenal,DEF,1717,104,0,White,N. European,zinchenko,Northern European,Ukraine,White
+Pedro Lomba Neto,,Wolves,MID,1516,86,0,NA,Other,neto,Mediterranean/Hispanic,Portugal,Southern European
+Raheem Sterling,,Chelsea,MID,1972,123,1,Black,Other,sterling,African/Caribbean,England,Black
+Raúl Jiménez,,Fulham,FWD,1390,72,0,NA,Other,jimenez,Mediterranean/Hispanic,Mexico,Latin American
+Richarlison de Andrade,,Spurs,MID,1481,122,0,NA,Other,richarlison,Mediterranean/Hispanic,Brazil,Latin American
+Robert Sánchez,,Chelsea,GK,1433,59,0,NA,Other,sanchez,Mixed Race (Black/White),Spain,Mixed Race
+Ross Barkley,,Aston Villa,MID,2616,101,1,White,N. European,barkley,Northern European,England,White
+Scott McTominay,,Manchester United,MID,1891,98,1,White,N. European,mctominay,Northern European,Scotland,White
+Sean Longstaff,,Newcastle,MID,2742,110,1,White,N. European,longstaff,Northern European,England,White
+Sergio Reguilón,,Brentford,DEF,1115,56,0,NA,Other,reguilon,Mediterranean/Hispanic,Spain,Southern European
+Takehiro Tomiyasu,,Arsenal,DEF,1140,70,0,NA,Other,tomiyasu,Asian,Japan,East Asian
+Thiago Emiliano da Silva,,Chelsea,DEF,2525,98,0,NA,Other,silva,Mixed Race (Black/White),Brazil,Mixed Race
+Timothy Castagne,,Fulham,DEF,2630,105,0,White,N. European,castagne,Northern European,Belgium,White
+Toti António Gomes,,Wolves,DEF,2771,82,0,Black,Other,toti,African/Caribbean,Portugal,Black
+Trent Alexander-Arnold,,Liverpool,DEF,2153,122,1,White,N. European,alexanderarnold,Northern European,England,White
+Tyrick Mitchell,,Crystal Palace,DEF,3204,119,1,Black,Other,mitchell,African/Caribbean,England,Black
+Victor Lindelöf,,Manchester United,DEF,1328,62,0,White,N. European,lindelof,Northern European,Sweden,White
+Virgil van Dijk,,Liverpool,DEF,3177,117,0,Black,Other,vandijk,African/Caribbean,Netherlands,Black
+Vitalii Mykolenko,,Everton,DEF,2469,101,0,White,N. European,mykolenko,Northern European,Ukraine,White
+Vitaly Janelt,,Brentford,MID,3054,93,0,White,N. European,janelt,Northern European,Germany,White
+Will Hughes,,Crystal Palace,MID,1886,61,1,White,N. European,hughes,Northern European,England,White
+Willy Boly,,Nottingham Forest,DEF,1437,58,0,Black,Other,boly,African/Caribbean,Ivory Coast,Black
+Youri Tielemans,,Aston Villa,MID,1613,77,0,NA,Other,tielemans,Mixed Race (Black/White),Belgium,Mixed Race
+Mohamed Salah,,Liverpool,FWD,NA,NA,0,NA,Other,salah,North African/Middle Eastern,Egypt,Arab

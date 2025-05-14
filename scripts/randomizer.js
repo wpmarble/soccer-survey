@@ -94,6 +94,16 @@ Qualtrics.SurveyEngine.addOnload(function() {
       else if (position == "MID") { positionGroup = "mid"; }
       else { positionGroup = "attack"; }
 
+      // --- Determine vignette template ---
+      let vignetteTemplate = "";
+      if (tr_sentiment === "negative" && selectedPlayer.takes_penalties == 1) {
+        // Randomly choose between generic negative or penalty miss vignette
+        vignetteTemplate = Math.random() < 0.5 ? positionGroup + "-negative.txt" : "pk-negative.txt";
+      } else {
+        vignetteTemplate = positionGroup + "-" + tr_sentiment + ".txt";
+      }
+
+
       // --- Set Embedded Data ---
       Qualtrics.SurveyEngine.setEmbeddedData('tr_british', tr_british);
       Qualtrics.SurveyEngine.setEmbeddedData('tr_white', tr_white);
@@ -106,6 +116,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_position_group', positionGroup);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_ethnicity', ethnicity);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_nationality', nation);
+      Qualtrics.SurveyEngine.setEmbeddedData('vignetteTemplate', vignetteTemplate);
 
       // --- Setup Attention Check Options ---
       const allTeams = players

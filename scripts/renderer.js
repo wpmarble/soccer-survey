@@ -25,7 +25,8 @@ Qualtrics.SurveyEngine.addOnload(function() {
   const teamName = "${e://Field/selected_player_team}";                 // club name for vignette text
 
   // --- Construct filenames for the vignette template and player photo ---
-  const vignetteFilename = positionGroup + "-" + sentiment + ".txt";   // e.g., "attack-positive.txt"
+  // const vignetteFilename = positionGroup + "-" + sentiment + ".txt";   // e.g., "attack-positive.txt"
+  const vignetteFilename = "${e://Field/vignette_template}";
   const vignetteUrl = vignetteDirUrl + "/" + vignetteFilename;         // full URL to vignette template
 
   const photoFilename = lastName.toLowerCase() + "-" + sentiment + ".jpg"; // e.g., "rashford-positive.jpg"

@@ -11,7 +11,8 @@
     "photo_name": "ramsdale",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Aaron Wan-Bissaka",
@@ -25,7 +26,8 @@
     "photo_name": "wanbissaka",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Abdoulaye Doucouré",
@@ -39,7 +41,8 @@
     "photo_name": "doucoure",
     "nation": "Mali",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Adam Armstrong",
@@ -53,7 +56,8 @@
     "photo_name": "armstrong",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Adama Traoré",
@@ -67,7 +71,8 @@
     "photo_name": "traore",
     "nation": "Spain",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Alexis Mac Allister",
@@ -80,7 +85,8 @@
     "photo_name": "macallister",
     "nation": "Argentina",
     "ethnicity": "Mediterranean/Hispanic",
-    "ethnicity_display": "Latin American"
+    "ethnicity_display": "Latin American",
+    "takes_penalties": 1
   },
   {
     "name": "Alisson Becker",
@@ -94,7 +100,8 @@
     "photo_name": "becker",
     "nation": "Brazil",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Andrew Robertson",
@@ -108,7 +115,8 @@
     "photo_name": "robertson",
     "nation": "Scotland",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Ashley Young",
@@ -122,7 +130,8 @@
     "photo_name": "young",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Bernd Leno",
@@ -136,7 +145,8 @@
     "photo_name": "leno",
     "nation": "Germany",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Bruno Guimarães",
@@ -149,7 +159,8 @@
     "photo_name": "brunoguimaraes",
     "nation": "Brazil",
     "ethnicity": "Mediterranean/Hispanic",
-    "ethnicity_display": "Latin American"
+    "ethnicity_display": "Latin American",
+    "takes_penalties": 0
   },
   {
     "name": "Callum Hudson-Odoi",
@@ -163,7 +174,8 @@
     "photo_name": "hudsonodoi",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Cameron Archer",
@@ -177,7 +189,8 @@
     "photo_name": "archer",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Christian Nørgaard",
@@ -191,7 +204,8 @@
     "photo_name": "norgaard",
     "nation": "Denmark",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Cristian Romero",
@@ -204,7 +218,8 @@
     "photo_name": "romero",
     "nation": "Argentina",
     "ethnicity": "Mediterranean/Hispanic",
-    "ethnicity_display": "Latin American"
+    "ethnicity_display": "Latin American",
+    "takes_penalties": 0
   },
   {
     "name": "Curtis Jones",
@@ -218,7 +233,8 @@
     "photo_name": "jones",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Dan Burn",
@@ -232,7 +248,8 @@
     "photo_name": "burn",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Danny Welbeck",
@@ -246,7 +263,8 @@
     "photo_name": "welbeck",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Declan Rice",
@@ -260,7 +278,8 @@
     "photo_name": "rice",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Dominic Calvert-Lewin",
@@ -273,7 +292,8 @@
     "photo_name": "calvertlewin",
     "nation": "England",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 1
   },
   {
     "name": "Dwight McNeil",
@@ -286,7 +306,8 @@
     "photo_name": "mcneil",
     "nation": "England",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 1
   },
   {
     "name": "Eberechi Eze",
@@ -300,7 +321,8 @@
     "photo_name": "eze",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Emerson",
@@ -313,7 +335,8 @@
     "photo_name": "emerson",
     "nation": "Italy",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 0
   },
   {
     "name": "Emile Smith Rowe",
@@ -327,7 +350,8 @@
     "photo_name": "smithrowe",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Konsa",
@@ -341,7 +365,8 @@
     "photo_name": "konsa",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Fabian Schär",
@@ -355,7 +380,8 @@
     "photo_name": "schar",
     "nation": "Switzerland",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Harvey Barnes",
@@ -369,7 +395,8 @@
     "photo_name": "barnes",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Ibrahima Konaté",
@@ -383,7 +410,8 @@
     "photo_name": "konate",
     "nation": "France",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Ilkay Gündogan",
@@ -396,7 +424,8 @@
     "photo_name": "gundogan",
     "nation": "Germany",
     "ethnicity": "North African/Middle Eastern",
-    "ethnicity_display": "Middle Eastern"
+    "ethnicity_display": "Middle Eastern",
+    "takes_penalties": 0
   },
   {
     "name": "Jacob Murphy",
@@ -410,7 +439,8 @@
     "photo_name": "murphy",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Jadon Sancho",
@@ -423,7 +453,8 @@
     "photo_name": "sancho",
     "nation": "England",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 1
   },
   {
     "name": "James Justin",
@@ -437,7 +468,8 @@
     "photo_name": "justin",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "James Tarkowski",
@@ -451,7 +483,8 @@
     "photo_name": "tarkowski",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Jarrad Branthwaite",
@@ -465,7 +498,8 @@
     "photo_name": "branthwaite",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Joelinton",
@@ -478,7 +512,8 @@
     "photo_name": "joelinton",
     "nation": "Brazil",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 0
   },
   {
     "name": "John McGinn",
@@ -492,7 +527,8 @@
     "photo_name": "mcginn",
     "nation": "Scotland",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Jordan Ayew",
@@ -506,7 +542,8 @@
     "photo_name": "ayew",
     "nation": "Ghana",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "José Malheiro de Sá",
@@ -518,7 +555,8 @@
     "neurope": "Other",
     "photo_name": "sa",
     "nation": "Portugal",
-    "ethnicity": "Mediterranean/Hispanic"
+    "ethnicity": "Mediterranean/Hispanic",
+    "takes_penalties": 0
   },
   {
     "name": "Joël Veltman",
@@ -532,7 +570,8 @@
     "photo_name": "veltman",
     "nation": "Netherlands",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Kepa Arrizabalaga",
@@ -544,7 +583,8 @@
     "neurope": "Other",
     "photo_name": "kepa",
     "nation": "Spain",
-    "ethnicity": "Mediterranean/Hispanic"
+    "ethnicity": "Mediterranean/Hispanic",
+    "takes_penalties": 0
   },
   {
     "name": "Kevin De Bruyne",
@@ -558,7 +598,8 @@
     "photo_name": "debruyne",
     "nation": "Belgium",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Kyle Walker-Peters",
@@ -572,7 +613,8 @@
     "photo_name": "walkerpeters",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Leandro Trossard",
@@ -586,7 +628,8 @@
     "photo_name": "trossard",
     "nation": "Belgium",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Leon Bailey",
@@ -600,7 +643,8 @@
     "photo_name": "bailey",
     "nation": "Jamaica",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Lewis Dunk",
@@ -614,7 +658,8 @@
     "photo_name": "dunk",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Lucas Digne",
@@ -628,7 +673,8 @@
     "photo_name": "digne",
     "nation": "France",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Marc Guéhi",
@@ -642,7 +688,8 @@
     "photo_name": "guehi",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Marcus Rashford",
@@ -656,7 +703,8 @@
     "photo_name": "rashford",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Martin Ødegaard",
@@ -670,7 +718,8 @@
     "photo_name": "odegaard",
     "nation": "Norway",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Max Kilman",
@@ -684,7 +733,8 @@
     "photo_name": "kilman",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Michail Antonio",
@@ -698,7 +748,8 @@
     "photo_name": "antonio",
     "nation": "Jamaica",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 1
   },
   {
     "name": "Morgan Gibbs-White",
@@ -711,7 +762,8 @@
     "photo_name": "gibbswhite",
     "nation": "England",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 1
   },
   {
     "name": "Nathan Collins",
@@ -725,7 +777,8 @@
     "photo_name": "collins",
     "nation": "Ireland",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Neco Williams",
@@ -739,7 +792,8 @@
     "photo_name": "necowilliams",
     "nation": "Wales",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Nick Pope",
@@ -753,7 +807,8 @@
     "photo_name": "pope",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Nélson Semedo",
@@ -767,7 +822,8 @@
     "photo_name": "semedo",
     "nation": "Portugal",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Pedro Neto",
@@ -779,7 +835,8 @@
     "neurope": "Other",
     "photo_name": "neto",
     "nation": "Portugal",
-    "ethnicity": "Mediterranean/Hispanic"
+    "ethnicity": "Mediterranean/Hispanic",
+    "takes_penalties": 1
   },
   {
     "name": "Phil Foden",
@@ -793,7 +850,8 @@
     "photo_name": "foden",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 1
   },
   {
     "name": "Robert Sánchez",
@@ -806,7 +864,8 @@
     "photo_name": "sanchez",
     "nation": "Spain",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 0
   },
   {
     "name": "Thomas Partey",
@@ -820,7 +879,8 @@
     "photo_name": "partey",
     "nation": "Ghana",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Tino Livramento",
@@ -834,7 +894,8 @@
     "photo_name": "livramento",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Trevoh Chalobah",
@@ -848,7 +909,8 @@
     "photo_name": "chalobah",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Tyrick Mitchell",
@@ -862,7 +924,8 @@
     "photo_name": "mitchell",
     "nation": "England",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Vitalii Mykolenko",
@@ -876,7 +939,8 @@
     "photo_name": "mykolenko",
     "nation": "Ukraine",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Vitaly Janelt",
@@ -890,7 +954,8 @@
     "photo_name": "janelt",
     "nation": "Germany",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Wilfred Ndidi",
@@ -904,7 +969,8 @@
     "photo_name": "ndidi",
     "nation": "Nigeria",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Will Hughes",
@@ -918,7 +984,8 @@
     "photo_name": "hughes",
     "nation": "England",
     "ethnicity": "Northern European",
-    "ethnicity_display": "White"
+    "ethnicity_display": "White",
+    "takes_penalties": 0
   },
   {
     "name": "Youri Tielemans",
@@ -931,7 +998,8 @@
     "photo_name": "tielemans",
     "nation": "Belgium",
     "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race"
+    "ethnicity_display": "Mixed Race",
+    "takes_penalties": 1
   },
   {
     "name": "Yves Bissouma",
@@ -945,7 +1013,8 @@
     "photo_name": "bissouma",
     "nation": "Mali",
     "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black"
+    "ethnicity_display": "Black",
+    "takes_penalties": 0
   },
   {
     "name": "Mohamed Salah",
@@ -956,6 +1025,7 @@
     "photo_name": "salah",
     "nation": "Egypt",
     "ethnicity": "North African/Middle Eastern",
-    "ethnicity_display": "Arab"
+    "ethnicity_display": "Arab",
+    "takes_penalties": 1
   }
 ]

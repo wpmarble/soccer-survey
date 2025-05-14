@@ -79,7 +79,8 @@ Qualtrics.SurveyEngine.addOnload(function() {
       // --- Randomly select a player (fallback if necessary) ---
       let selectedPlayer = (eligiblePlayers.length > 0) ? randomChoice(eligiblePlayers) : randomChoice(players);
       console.log('Selected player: ', selectedPlayer);
-
+      console.log('Player takes penalties: ', selectedPlayer.takes_penalties);
+      
       const fullName = selectedPlayer.name;
       const lastName = selectedPlayer.photo_name;
       const teamName = selectedPlayer.team;
@@ -102,7 +103,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
       } else {
         vignetteTemplate = positionGroup + "-" + tr_sentiment + ".txt";
       }
-
+      console.log('vignetteTemplate: ', vignetteTemplate);
 
       // --- Set Embedded Data ---
       Qualtrics.SurveyEngine.setEmbeddedData('tr_british', tr_british);
@@ -116,7 +117,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_position_group', positionGroup);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_ethnicity', ethnicity);
       Qualtrics.SurveyEngine.setEmbeddedData('selected_player_nationality', nation);
-      Qualtrics.SurveyEngine.setEmbeddedData('vignetteTemplate', vignetteTemplate);
+      Qualtrics.SurveyEngine.setEmbeddedData('vignette_template', vignetteTemplate);
 
       // --- Setup Attention Check Options ---
       const allTeams = players

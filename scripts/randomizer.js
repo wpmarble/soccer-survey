@@ -32,7 +32,7 @@ Qualtrics.SurveyEngine.addOnload(function() {
   document.head.appendChild(style);
 
   // --- Setup: URL for external JSON file ---
-  const playersUrl = "https://williammarble.co/soccer-survey/player-list.json";
+  const playersUrl = "https://williammarble.com/soccer-survey/player-list.json";
 
   // --- Helper function to shuffle an array ---
   function shuffleArray(array) {

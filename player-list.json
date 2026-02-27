@@ -1,7 +1,7 @@
 [
   {
     "name": "Aaron Ramsdale",
-    "team": "Southampton",
+    "team": "Newcastle",
     "position": "GK",
     "minutes": 1260,
     "points": 45,
@@ -28,36 +28,6 @@
     "ethnicity": "African/Caribbean",
     "ethnicity_display": "Black",
     "takes_penalties": 0
-  },
-  {
-    "name": "Abdoulaye Doucouré",
-    "team": "Everton",
-    "position": "MID",
-    "minutes": 1424,
-    "points": 40,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "doucoure",
-    "nation": "Mali",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 1
-  },
-  {
-    "name": "Adam Armstrong",
-    "team": "Southampton",
-    "position": "FWD",
-    "minutes": 1130,
-    "points": 43,
-    "british": 1,
-    "black_white": "White",
-    "neurope": "N. European",
-    "photo_name": "armstrong",
-    "nation": "England",
-    "ethnicity": "Northern European",
-    "ethnicity_display": "White",
-    "takes_penalties": 1
   },
   {
     "name": "Adama Traoré",
@@ -119,21 +89,6 @@
     "takes_penalties": 0
   },
   {
-    "name": "Ashley Young",
-    "team": "Everton",
-    "position": "DEF",
-    "minutes": 1438,
-    "points": 72,
-    "british": 1,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "young",
-    "nation": "England",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 0
-  },
-  {
     "name": "Bernd Leno",
     "team": "Fulham",
     "position": "GK",
@@ -178,23 +133,8 @@
     "takes_penalties": 1
   },
   {
-    "name": "Cameron Archer",
-    "team": "Southampton",
-    "position": "FWD",
-    "minutes": 949,
-    "points": 38,
-    "british": 1,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "archer",
-    "nation": "England",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 1
-  },
-  {
     "name": "Christian Nørgaard",
-    "team": "Brentford",
+    "team": "Arsenal",
     "position": "MID",
     "minutes": 1469,
     "points": 48,
@@ -283,7 +223,7 @@
   },
   {
     "name": "Dominic Calvert-Lewin",
-    "team": "Everton",
+    "team": "Leeds",
     "position": "FWD",
     "minutes": 1469,
     "points": 53,
@@ -311,7 +251,7 @@
   },
   {
     "name": "Eberechi Eze",
-    "team": "Crystal Palace",
+    "team": "Arsenal",
     "position": "MID",
     "minutes": 1415,
     "points": 65,
@@ -323,20 +263,6 @@
     "ethnicity": "African/Caribbean",
     "ethnicity_display": "Black",
     "takes_penalties": 1
-  },
-  {
-    "name": "Emerson",
-    "team": "West Ham",
-    "position": "DEF",
-    "minutes": 1431,
-    "points": 44,
-    "british": 0,
-    "neurope": "Other",
-    "photo_name": "emerson",
-    "nation": "Italy",
-    "ethnicity": "Mixed Race (Black/White)",
-    "ethnicity_display": "Mixed Race",
-    "takes_penalties": 0
   },
   {
     "name": "Emile Smith Rowe",
@@ -414,20 +340,6 @@
     "takes_penalties": 0
   },
   {
-    "name": "Ilkay Gündogan",
-    "team": "Man City",
-    "position": "MID",
-    "minutes": 1158,
-    "points": 35,
-    "british": 0,
-    "neurope": "Other",
-    "photo_name": "gundogan",
-    "nation": "Germany",
-    "ethnicity": "North African/Middle Eastern",
-    "ethnicity_display": "Middle Eastern",
-    "takes_penalties": 0
-  },
-  {
     "name": "Jacob Murphy",
     "team": "Newcastle",
     "position": "MID",
@@ -444,7 +356,7 @@
   },
   {
     "name": "Jadon Sancho",
-    "team": "Chelsea",
+    "team": "Aston Villa",
     "position": "MID",
     "minutes": 958,
     "points": 53,
@@ -458,7 +370,7 @@
   },
   {
     "name": "James Justin",
-    "team": "Leicester",
+    "team": "Leeds",
     "position": "DEF",
     "minutes": 1722,
     "points": 40,
@@ -531,21 +443,6 @@
     "takes_penalties": 1
   },
   {
-    "name": "Jordan Ayew",
-    "team": "Leicester",
-    "position": "MID",
-    "minutes": 917,
-    "points": 48,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "ayew",
-    "nation": "Ghana",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 1
-  },
-  {
     "name": "José Malheiro de Sá",
     "team": "Wolves",
     "position": "GK",
@@ -575,7 +472,7 @@
   },
   {
     "name": "Kepa Arrizabalaga",
-    "team": "Bournemouth",
+    "team": "Arsenal",
     "position": "GK",
     "minutes": 1260,
     "points": 52,
@@ -587,23 +484,8 @@
     "takes_penalties": 0
   },
   {
-    "name": "Kevin De Bruyne",
-    "team": "Man City",
-    "position": "MID",
-    "minutes": 909,
-    "points": 58,
-    "british": 0,
-    "black_white": "White",
-    "neurope": "N. European",
-    "photo_name": "debruyne",
-    "nation": "Belgium",
-    "ethnicity": "Northern European",
-    "ethnicity_display": "White",
-    "takes_penalties": 1
-  },
-  {
     "name": "Kyle Walker-Peters",
-    "team": "Southampton",
+    "team": "West Ham",
     "position": "DEF",
     "minutes": 1690,
     "points": 37,
@@ -629,21 +511,6 @@
     "nation": "Belgium",
     "ethnicity": "Northern European",
     "ethnicity_display": "White",
-    "takes_penalties": 1
-  },
-  {
-    "name": "Leon Bailey",
-    "team": "Aston Villa",
-    "position": "MID",
-    "minutes": 914,
-    "points": 39,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "bailey",
-    "nation": "Jamaica",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
     "takes_penalties": 1
   },
   {
@@ -678,7 +545,7 @@
   },
   {
     "name": "Marc Guéhi",
-    "team": "Crystal Palace",
+    "team": "Man City",
     "position": "DEF",
     "minutes": 1800,
     "points": 70,
@@ -690,21 +557,6 @@
     "ethnicity": "African/Caribbean",
     "ethnicity_display": "Black",
     "takes_penalties": 0
-  },
-  {
-    "name": "Marcus Rashford",
-    "team": "Man Utd",
-    "position": "MID",
-    "minutes": 975,
-    "points": 54,
-    "british": 1,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "rashford",
-    "nation": "England",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 1
   },
   {
     "name": "Martin Ødegaard",
@@ -735,21 +587,6 @@
     "ethnicity": "Northern European",
     "ethnicity_display": "White",
     "takes_penalties": 0
-  },
-  {
-    "name": "Michail Antonio",
-    "team": "West Ham",
-    "position": "FWD",
-    "minutes": 834,
-    "points": 42,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "antonio",
-    "nation": "Jamaica",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 1
   },
   {
     "name": "Morgan Gibbs-White",
@@ -811,21 +648,6 @@
     "takes_penalties": 0
   },
   {
-    "name": "Nélson Semedo",
-    "team": "Wolves",
-    "position": "DEF",
-    "minutes": 1429,
-    "points": 36,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "semedo",
-    "nation": "Portugal",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 0
-  },
-  {
     "name": "Pedro Neto",
     "team": "Chelsea",
     "position": "MID",
@@ -868,21 +690,6 @@
     "takes_penalties": 0
   },
   {
-    "name": "Thomas Partey",
-    "team": "Arsenal",
-    "position": "MID",
-    "minutes": 1581,
-    "points": 63,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "partey",
-    "nation": "Ghana",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
-    "takes_penalties": 0
-  },
-  {
     "name": "Tino Livramento",
     "team": "Newcastle",
     "position": "DEF",
@@ -899,7 +706,7 @@
   },
   {
     "name": "Trevoh Chalobah",
-    "team": "Crystal Palace",
+    "team": "Chelsea",
     "position": "DEF",
     "minutes": 1060,
     "points": 54,
@@ -955,21 +762,6 @@
     "nation": "Germany",
     "ethnicity": "Northern European",
     "ethnicity_display": "White",
-    "takes_penalties": 0
-  },
-  {
-    "name": "Wilfred Ndidi",
-    "team": "Leicester",
-    "position": "MID",
-    "minutes": 1216,
-    "points": 37,
-    "british": 0,
-    "black_white": "Black",
-    "neurope": "Other",
-    "photo_name": "ndidi",
-    "nation": "Nigeria",
-    "ethnicity": "African/Caribbean",
-    "ethnicity_display": "Black",
     "takes_penalties": 0
   },
   {
